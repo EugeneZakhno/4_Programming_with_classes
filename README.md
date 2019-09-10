@@ -7,7 +7,7 @@
  - Recommendations.pdf - файл содержит рекомендуемые материалы (видео и книги), к которым следует обратиться при возникновении трудностей при решении задач или ответах на вопросы.
 
 
-``java
+```java
 /*  Eng:
     01. Create the class Test1 with two variables. Add a display method and methods for changing these
     variables. Add a method that finds the sum of the values of these variables and a method that finds
