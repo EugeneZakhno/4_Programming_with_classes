@@ -20,7 +20,7 @@ public class Test2 {
     }
 
     public int getAble() {
-        return able;
+        return  able;
     }
 
     public void setAble(int able) {
