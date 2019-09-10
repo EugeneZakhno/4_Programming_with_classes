@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/4_Programming_with_classes.iml" filepath="$PROJECT_DIR$/.idea/4_Programming_with_classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task01/Task01.iml" filepath="$PROJECT_DIR$/Task01/Task01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Task2/Task2.iml" filepath="$PROJECT_DIR$/Task2/Task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task02/Task02.iml" filepath="$PROJECT_DIR$/Task02/Task02.iml" />
     </modules>
   </component>
 </project>
