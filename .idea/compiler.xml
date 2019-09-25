@@ -24,7 +24,7 @@
       <module name="Task05" target="1.5" />
       <module name="Task06" target="7" />
       <module name="Task07" target="1.5" />
-      <module name="Task08" target="1.5" />
+      <module name="Task08" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
